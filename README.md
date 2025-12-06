@@ -1,0 +1,1 @@
+Built an e-commerce platform for selling mushroom products with features such as product listings, user authentication, shopping cart management, and a basic payment gateway. Implemented a responsive UI using HTML and CSS, with backend operations handled through PHP and MySQL for database-driven transactions.
